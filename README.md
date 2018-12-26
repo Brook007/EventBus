@@ -1,7 +1,7 @@
 # EventBus
 
 ## 概述
-[![](https://jitpack.io/v/Brook007/StateLayout.svg)](https://github.com/Brook007/EventBus)
+[![](https://jitpack.io/v/Brook007/EventBus.svg)](https://jitpack.io/#Brook007/EventBus)
 [![](https://img.shields.io/badge/Platform-Android-brightgreen.svg)](https://github.com/Brook007/EventBus)
 [![](https://img.shields.io/badge/API_Live-14+-brightgreen.svg)](https://github.com/Brook007/EventBus)
 [![](https://img.shields.io/badge/License-Apache_2-brightgreen.svg)](https://github.com/Brook007/EventBus/blob/master/LICENSE)
