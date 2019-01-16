@@ -1,9 +1,8 @@
 package com.brook.app.android;
 
-import android.content.ReceiverCallNotAllowedException;
+import android.os.Bundle;
 import android.support.annotation.Keep;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.widget.TextView;
 
 import com.brook.app.android.eventbus.R;
